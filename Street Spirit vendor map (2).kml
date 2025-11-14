@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Street Spirit vendor map</name>
+    <description/>
+    <Style id="icon-1739-757575-nodesc-normal">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1739-757575-nodesc-highlight">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1739-757575-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-757575-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-757575-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1739-A52714-nodesc-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1739-A52714-nodesc-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1739-A52714-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1739-A52714-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1739-A52714-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Street Spirit vendors</name>
+      <Placemark>
+        <name>Jeremy </name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2533577,37.8583396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rhieva Heins</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2668758,37.8573833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kevin Aikens</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2675034,37.8571799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rob Taylor</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.286906,37.8902696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kenneth Winters</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2673272,37.8665336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Venus Winters</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2672287,37.8666016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilal Patton</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.267212,37.857061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sharla Calip</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2525292,37.8455681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Richard Davis</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2525952,37.8457324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Melanie Lacy</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2683283,37.8802629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Andrew Peter</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2960264,37.8805862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anthony King</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2678013,37.8703559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vann Taylor</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2713482,37.8487628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eugene Hayes</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.29,37.8530556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vernon Dailey</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.289907,37.8531869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Carmen Thomas</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2898373,37.853153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Travis Smith</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2792213,37.8915722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tony Preston</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2443809,37.8099731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shawn Moses</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2448,37.8106968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alan Wager</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2582734,37.8650255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Larry Ball</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.26738,37.8574616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reginald Johnson</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2669964,37.8568665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harold Jackson</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2526944,37.8507722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jeff Adams</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2584188,37.865842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bishop Cook</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3009417,37.8702242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fred Thomas</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.251609,37.826699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jasiah</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2521213,37.85058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joann Knott</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2684678,37.8704179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Denise Smith</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2683576,37.8698617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barbara Kiang</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2533676,37.8258587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anthony King</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2668542,37.8704561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>David Levine</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2706939,37.8711142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>David Frazier</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.266815,37.8569339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reginald 2</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2695155,37.8807695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lisa Rodriguez?</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2548013,37.8687931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Simuel Ramey</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2711124,37.8048283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tommy Lee</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2698245,37.8091514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Willie Neal</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2646789,37.8379306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Keith Hope</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2824024,37.8813792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sam Short</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2677581,37.8640703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rick Brown</name>
+        <styleUrl>#icon-1739-757575-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2955471,37.8791458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>New vendors</name>
+      <Placemark>
+        <name>Brian Ford</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2480938,37.8548801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charles Dollar</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2694794,37.8798723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Daniel Romero</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2722348,37.8476083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marilyn Alvarado</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2505337,37.8086582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joel Fox</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2839687,37.86976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fred Chamalet</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2675839,37.8686573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uncle Frank</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2679764,37.8567328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anthony Reed</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2451581,37.8103581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kevin Venerable</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2665164,37.8560922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kirk Fields</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2692168,37.8789374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>David MacDonald</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2444509,37.8107349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jeff Beardsley</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3597458,37.9319339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Andrew Quiroz</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.260109,37.8333513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taylor Del Rosario</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3847593,37.9267607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Matteo</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2747533,37.8714831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tarsa Gold</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.26782,37.8685387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jack Conneff</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2960656,37.8810181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reginald Coayers</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2694363,37.8105812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jack Lew</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2673262,37.8646271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jimbow</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2434336,37.7638357,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chinook Bacon</name>
+        <styleUrl>#icon-1739-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2684476,37.815233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
